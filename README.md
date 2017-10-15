@@ -137,7 +137,6 @@ for the JavaScript code in this tag.
      target.className = elem.cacheClassTarget;
  }
 /*]]>*///-->
-</script>
 <script type="text/javascript" src="http://orgmode.org/mathjax/MathJax.js"></script>
 <script type="text/javascript">
 <!--/*--><![CDATA[/*><!--*/
