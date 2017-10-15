@@ -8,7 +8,6 @@ Concurrent programming assignment #2
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="pl" xml:lang="pl">
 <head>
-<title>Zadanie zaliczeniowe CPP - algorytm Brandesa</title>
 <!-- 2016-12-26 Mon 21:06 -->
 <meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta  name="generator" content="Org-mode" />
