@@ -2,20 +2,6 @@
 Concurrent programming assignment #2
 
 **Task description in Polish**
-
-<style type="text/css">.MathJax_Display {text-align: center; margin: 1em 0em; position: relative; display: block; width: 100%}
-.MathJax .merror {background-color: #FFFF88; color: #CC0000; border: 1px solid #CC0000; padding: 1px 3px; font-family: serif; font-style: normal; font-size: 90%}
-.MathJax_Preview {color: #888888}
-#MathJax_Tooltip {background-color: InfoBackground; color: InfoText; border: 1px solid black; box-shadow: 2px 2px 5px #AAAAAA; -webkit-box-shadow: 2px 2px 5px #AAAAAA; -moz-box-shadow: 2px 2px 5px #AAAAAA; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true'); padding: 3px 4px; position: absolute; left: 0; top: 0; width: auto; height: auto; display: none}
-.MathJax {display: inline; font-family: serif; font-style: normal; font-weight: normal; line-height: normal; font-size: 100%; font-size-adjust: none; text-indent: 0; text-align: left; text-transform: none; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; border: 0; padding: 0; margin: 0}
-.MathJax img, .MathJax nobr, .MathJax a {border: 0; padding: 0; margin: 0; max-width: none; max-height: none; vertical-align: 0; line-height: normal; text-decoration: none}
-img.MathJax_strut {border: 0 !important; padding: 0 !important; margin: 0 !important; vertical-align: 0 !important}
-.MathJax span {display: inline; border: 0; padding: 0; margin: 0; vertical-align: 0; line-height: normal; text-decoration: none}
-.MathJax .MathJax_HitBox {cursor: text}
-#MathJax_Tooltip * {filter: none; background: transparent}
-#MathJax_getScales {font-family: STIXGeneral,STIXNonUnicode,STIXSizeOneSym}
-.MathJax .math span {font-family: STIXGeneral,STIXNonUnicode,STIXSizeOneSym}
-</head>
 <body><div style="visibility: hidden; overflow: hidden; height: 1px; position: absolute; top: 0px;"><div id="MathJax_Hidden"></div></div><div id="MathJax_Message" style="display: none;"></div>
 <div id="content">
 <h1 class="title">Zadanie zaliczeniowe CPP - algorytm Brandesa</h1>
