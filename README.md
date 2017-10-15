@@ -137,7 +137,7 @@ for the JavaScript code in this tag.
      target.className = elem.cacheClassTarget;
  }
 /*]]>*///-->
-<script type="text/javascript" src="http://orgmode.org/mathjax/MathJax.js"></script>
+<script type="text/javascript" src="http://orgmode.org/mathjax/MathJax.js">
 <script type="text/javascript">
 <!--/*--><![CDATA[/*><!--*/
     MathJax.Hub.Config({
@@ -178,7 +178,6 @@ for the JavaScript code in this tag.
         }
     });
 /*]]>*///-->
-</script>
 </head>
 <body>
 <div id="content">
