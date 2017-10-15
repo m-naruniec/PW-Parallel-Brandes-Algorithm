@@ -12,7 +12,6 @@ Concurrent programming assignment #2
 <meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta  name="generator" content="Org-mode" />
 <meta  name="author" content="Krzysztof Rządca" />
-<style type="text/css">
  <!--/*--><![CDATA[/*><!--*/
   .title  { text-align: center; }
   .todo   { font-family: monospace; color: red; }
